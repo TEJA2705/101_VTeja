@@ -53,7 +53,7 @@ st.markdown("""
 st.markdown("<h1 style='text-align:center'>🩺 AI Symptom Checker</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center'>Smart & safe preliminary health insights</p>", unsafe_allow_html=True)
 
-st.warning("⚠️ This tool is NOT a medical diagnosis.")
+
 
 # ===============================
 # Tabs
